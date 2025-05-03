@@ -1,7 +1,5 @@
 # garimasingh128.github.io
 
-![Demo](video.gif)
-
 
 ![Author](https://img.shields.io/badge/author-SujanVulasala-orange)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
